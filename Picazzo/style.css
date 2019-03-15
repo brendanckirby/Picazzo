@@ -17,6 +17,7 @@ body {
 
 
 canvas {
+	border-style: solid;
   position: absolute;
   top: 25px;
   left: 50%;
